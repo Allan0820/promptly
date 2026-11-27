@@ -1,6 +1,6 @@
 # Promptly
 
-![Promptly logo](promptly_logo.png)
+![Promptly logo](/images/promptly_logo.svg)
 
 Promptly is an experiment in a compact, readable programming language with a clear path from high-level intent to low-level execution. The goal is to make everyday programming tasks concise and predictable, while keeping the language precise enough for a compiler to check and translate.
 
