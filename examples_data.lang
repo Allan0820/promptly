@@ -1,0 +1,8 @@
+# NumPy-style integer arrays and a pandas-style dataframe.
+FN MAIN() -> INT:
+    LET IDS = ARANGE(1, 5)
+    LET SCORES = ARRAY([12, 25, 18, 40])
+    LET SCORES_WITH_BONUS = SCORES + 5
+    LET ROWS = DATAFRAME("ID", IDS, "SCORE", SCORES_WITH_BONUS)
+    LET PASSING = FILTER_GT(ROWS, "SCORE", 25)
+    RETURN SUM(COLUMN(PASSING, "SCORE"))
