@@ -1,6 +1,10 @@
 # Promptly
 
-![Promptly logo](/images/promptly_logo.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/promptly/images/promptly_logo.svg" />
+  <!-- <source media="(prefers-color-scheme: light)" srcset="https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png" /> -->
+  <!-- <img src="https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png" alt="PyTorch logo" /> -->
+</picture>
 
 Promptly is an experiment in a compact, readable programming language with a clear path from high-level intent to low-level execution. The goal is to make everyday programming tasks concise and predictable, while keeping the language precise enough for a compiler to check and translate.
 
