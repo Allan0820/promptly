@@ -1,7 +1,7 @@
 # Promptly
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/promptly/images/promptly_logo.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Allan0820/promptly/blob/main/images/promptly_logo.svg" />
   <!-- <source media="(prefers-color-scheme: light)" srcset="https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png" /> -->
   <!-- <img src="https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png" alt="PyTorch logo" /> -->
 </picture>
